@@ -1,15 +1,21 @@
 {
-  "name": "sass_sandbox",
+  "name": "java_script",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "readme",
+  "main": "General_loops.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "start": "array.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xavier2023/java_script.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "node-sass": "^7.0.1"
-  }
+  "bugs": {
+    "url": "https://github.com/Xavier2023/java_script/issues"
+  },
+  "homepage": "https://github.com/Xavier2023/java_script#readme"
 }
